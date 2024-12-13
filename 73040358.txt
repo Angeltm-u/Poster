@@ -1,0 +1,4 @@
+Glucosa  100
+Colesterol  210
+Triglicéridos  160
+Creatinina  1.1
