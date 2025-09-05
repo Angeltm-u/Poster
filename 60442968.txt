@@ -1,4 +1,4 @@
-Glucosa  98
+Glucosa  97
 Colesterol  150
 Triglicéridos  170
 Creatinina  0.7
